@@ -42,3 +42,7 @@ Tools Used
 IBM SPSS Modeler
 Microsoft Excel
 GitHub
+Social Influence on Online Shopping using SPSS Modeler
+Project Overview
+This project analyzes the influence of social media platforms on online shopping behavior using IBM SPSS Modeler.
+The study investigates how different social media platforms affect purchasing decisions across various respondent segments such as gender, mobile users, and university groups.
